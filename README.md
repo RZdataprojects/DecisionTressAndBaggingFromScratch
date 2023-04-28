@@ -1,3 +1,3 @@
-# DecisionTressAndBaggingFromScratch
-Bagging Classifier and Decision Tree Classifier from Scratch
-Please see Notebook for more information.
+# Binary Decision Tress And Bagging Classifiers From Scratch
+
+Please see full_code notebook for more information.
